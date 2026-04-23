@@ -7,7 +7,7 @@ This repository contains a Python implementation of the failure function algorit
 # Assignment 1: Failure Function Implementation
 
 ## Environment and Tools
-* **Operating System:** Windows 10 / Linux Ubuntu (You can adjust this to your actual OS)
+* **Operating System:** Windows 11 / Linux Ubuntu (You can adjust this to your actual OS)
 * **Programming Language:** Python 3.10
 * **Tools Used:** Visual Studio Code, Terminal
 
